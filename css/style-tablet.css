@@ -1,0 +1,39 @@
+@media only screen and (min-width: 601px) and (max-width: 899px) {
+
+  body {
+    text-align: center;
+  }
+
+  .nav-link {
+    position: relative;
+    display: block;
+    padding: 1.5em 3.5em 1.5em;
+  }
+
+  .navbar-default {
+    background-image: none;
+    background-image: none;
+    webkit-box-shadow: none;
+    box-shadow: none;
+    border-color: transparent;
+    background-color: transparent;
+  }
+
+  .navbar-toggle {
+    float: none;
+    margin: auto;
+  }
+
+  .fw-subtitle {
+    text-align: center;
+  }
+
+  .section {
+    margin-bottom: 9%;
+    text-align: center;
+  }
+
+  .hero {
+    margin-bottom: 5%;
+  }
+}

@@ -1,0 +1,7 @@
+@media only screen and (min-width: 900px) {
+
+  .header-links {
+    text-align: left;
+    padding: 1em 1em 0em;
+  }
+}
