@@ -37,3 +37,11 @@ h1 {
 .bulletp {
   padding-left: 10%;
 }
+
+.degree {
+  font-weight: normal;
+}
+
+#activities {
+  padding: 0.5% 15%;
+}
