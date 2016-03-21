@@ -3,13 +3,37 @@ h1 {
     text-align: center;
   }
 
-.row {
+#header {
   background-color: rgb(0, 179, 0);
 }
 
-.header-links {
-  text-align: left;
-  padding: 1em 1em 0em;
+.subtitles {
+  margin: 0.5% 5% 0.5%;
 }
 
+.paragraph {
+   margin: 0.5% 8% 0.5%;
+}
 
+.italics {
+  font-style: italic;
+}
+
+#project-titles-1 {
+  font-weight: 700;
+  padding-left: 8%;
+}
+
+#project-titles-m {
+  font-style: italic;
+  font-weight: 600;
+  padding-left: 8%;
+}
+
+#project-titles-2 {
+  padding-left: 8%;
+  font-style: italic;
+}
+.bulletp {
+  padding-left: 10%;
+}

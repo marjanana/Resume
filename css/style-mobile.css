@@ -1,11 +1,11 @@
 @media only screen and (max-width: 600px) {
 
   body {
-    text-align: center;
+    text-align: left;
   }
 
   .header-links {
     text-align: center;
     padding: 1em 1em 0em;
- }
+  }
 }
