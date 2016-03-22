@@ -24,18 +24,14 @@ h1 {
   padding-left: 8%;
 }
 
-#project-titles-m {
+.project-titles-m {
   font-style: italic;
   font-weight: 600;
-  padding-left: 8%;
 }
 
 #project-titles-2 {
   padding-left: 8%;
   font-style: italic;
-}
-.bulletp {
-  padding-left: 10%;
 }
 
 .degree {
@@ -43,5 +39,5 @@ h1 {
 }
 
 #activities {
-  padding: 0.5% 15%;
+  padding-left: 10%;
 }

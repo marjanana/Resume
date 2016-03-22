@@ -8,4 +8,8 @@
     text-align: center;
     padding: 1em 1em 0em;
   }
+
+  .bulletp {
+  padding-left: 15%;
+}
 }
