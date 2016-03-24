@@ -1,12 +1,16 @@
-@media only screen and (min-width: 900px) {
+@media only screen and (min-width: 1024px) {
+
+  h1 {
+    text-align: center;
+  }
 
   .header-links {
     text-align: left;
-    padding: 1em 1em 0em;
+    padding: 1em 4em 0em;
   }
 
   .header-links1 {
-    text-align: left;
+    text-align: right;
     padding: 1em 4em 0em;
   }
 
@@ -18,5 +22,20 @@
   .bulletp {
     margin-top: 2.5em;
     padding-left: 10%;
+  }
+
+  #project-titles-1 {
+  font-weight: 700;
+  padding-left: 8%;
+  }
+
+  .project-titles-m {
+    font-style: italic;
+    font-weight: 600;
+  }
+
+  #project-titles-2 {
+    padding-left: 8%;
+    font-style: italic;
   }
 }

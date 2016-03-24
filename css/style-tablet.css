@@ -1,39 +1,24 @@
-@media only screen and (min-width: 601px) and (max-width: 899px) {
+@media only screen and (min-width: 769px) and (max-width: 1023px) {
 
-  body {
-    text-align: center;
+
+  .header-links {
+    padding-left: 3em;
+    padding-top: 1em;
   }
 
-  .nav-link {
-    position: relative;
-    display: block;
-    padding: 1.5em 3.5em 1.5em;
+  #project-titles-1 {
+    font-weight: 700;
+    padding-left: 8%;
   }
 
-  .navbar-default {
-    background-image: none;
-    background-image: none;
-    webkit-box-shadow: none;
-    box-shadow: none;
-    border-color: transparent;
-    background-color: transparent;
+  .project-titles-m {
+    font-style: italic;
+    font-weight: 600;
   }
 
-  .navbar-toggle {
-    float: none;
-    margin: auto;
+  #project-titles-2 {
+    padding-left: 8%;
+    font-style: italic;
   }
 
-  .fw-subtitle {
-    text-align: center;
-  }
-
-  .section {
-    margin-bottom: 9%;
-    text-align: center;
-  }
-
-  .hero {
-    margin-bottom: 5%;
-  }
 }

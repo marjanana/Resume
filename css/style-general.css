@@ -1,5 +1,4 @@
-
-h1 {
+ h1 {
     text-align: center;
   }
 
@@ -16,21 +15,6 @@ h1 {
 }
 
 .italics {
-  font-style: italic;
-}
-
-#project-titles-1 {
-  font-weight: 700;
-  padding-left: 8%;
-}
-
-.project-titles-m {
-  font-style: italic;
-  font-weight: 600;
-}
-
-#project-titles-2 {
-  padding-left: 8%;
   font-style: italic;
 }
 
